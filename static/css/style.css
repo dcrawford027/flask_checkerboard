@@ -1,0 +1,14 @@
+.space {
+    width: 75px;
+    height: 75px;
+    display: inline-block;
+    margin: -2px;
+}
+
+.color1 {
+    background-color: red;
+}
+
+.color2 {
+    background-color: black;
+}
